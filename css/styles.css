@@ -1,0 +1,94 @@
+div{
+    background-color: #E4F9F5;
+}
+body{
+    margin:0;
+    color:black;
+    text-align: center;
+    font-family: 'Merriweather', serif; 
+    font-size: 100%;   
+}
+h1{
+    font-size: 5.625rem;
+margin-top: 0;
+margin-bottom: 0px;
+font-family:'Sacramento', cursive; 
+margin-top: 50px;
+color:#086972;
+}
+h2{
+    font-family:'Montserrat', sans-serif;
+    color:#086972 ;
+    padding-bottom: 10px;
+    
+
+}
+hr{
+
+}
+h3{font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    margin-top:0px;
+    color:#086972;
+    font-weight: normal;
+
+}
+.middle-container
+{
+    
+
+}
+.bottom-container
+{
+
+
+}
+.pro
+{
+    text-decoration: underline;
+}
+.bottom-cloud
+{
+    position: absolute;
+    left:400px;
+}
+.top-cloud
+{
+    position: absolute;
+    right: 400px;
+    top: 100px;
+    
+}
+.top-container{
+    padding: 150px;
+}
+
+.myimage{
+    height:200px;
+}
+.myskill1{
+    height: 200px;
+}
+.myskill2{
+    height: 200px;
+}
+.circular
+{
+    border-radius: 100%;
+}
+.skill-row{
+    width: 50%;
+    margin:100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.myskill1{
+    width: 40%;
+    float: left;
+    margin-right: 30px;
+}
+.myskill2{
+    height:250px;
+    float: right;
+    margin-left: 40px;
+}
